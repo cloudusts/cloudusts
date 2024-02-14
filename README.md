@@ -6,13 +6,9 @@
 
 🇭🇰繁中/🇬🇧英文/🇫🇷法文（學習中）
 
-#### 💡設計工具
+#### 💡熟練使用
 
-[![icon](https://skillicons.dev/icons?i=xd,figma&theme=dark)](https://skillicons.dev)
-
-#### 📝程式設計語言
-
-[![icon](https://skillicons.dev/icons?i=rust,php,js,electron&theme=dark)](https://skillicons.dev)
+[![icon](https://skillicons.dev/icons?i=figma,python,php&theme=dark)](https://skillicons.dev)
 
 #### 💻生產力設備
 
